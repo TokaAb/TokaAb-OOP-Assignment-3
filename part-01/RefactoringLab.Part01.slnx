@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Generics/Generics.csproj" />
+  <Project Path="RefactoringLab.Part01.csproj" />
+</Solution>
