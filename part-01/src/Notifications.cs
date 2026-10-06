@@ -37,7 +37,7 @@ public class EmailChannel : INotificationChannel
         if (sendAt.HasValue)
         {
             Console.WriteLine(
-                $"[email scheduled {sendAt.Value:}] {to}: {message}");
+                $"[email scheduled {sendAt.Value}] {to}: {message}");
         }
         else
         {
@@ -54,7 +54,7 @@ public class SmsChannel : INotificationChannel
         if (sendAt.HasValue)
         {
             Console.WriteLine(
-                $"[sms scheduled {sendAt.Value:}] {to}: {message}");
+                $"[sms scheduled {sendAt.Value}] {to}: {message}");
         }
         else
         {
@@ -70,7 +70,7 @@ public class WhatsAppChannel : INotificationChannel
         if (sendAt.HasValue)
         {
             Console.WriteLine(
-                $"[whatsapp scheduled {sendAt.Value:}] {to}: {message}");
+                $"[whatsapp scheduled {sendAt.Value}] {to}: {message}");
         }
         else
         {

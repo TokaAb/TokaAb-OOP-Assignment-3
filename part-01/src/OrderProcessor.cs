@@ -24,7 +24,7 @@ public interface IEmailSender
     {
         var processedAt = DateTime.Now;
 
-        orderRepository.Save(orderId, processedAt);
+        orderRepository.process(orderId, processedAt);
 
         emailSender.Send(
             customerEmail,
