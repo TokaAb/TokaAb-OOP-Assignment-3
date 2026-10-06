@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Collections/Collections.csproj" />
+  <Project Path="../Generics/Generics.csproj" />
+  <Project Path="../part-02/RefactoringLab.Part02.csproj" />
+  <Project Path="../part-03/RefactoringLab.Part03.csproj" />
+  <Project Path="RefactoringLab.Part01.csproj" />
+</Solution>
