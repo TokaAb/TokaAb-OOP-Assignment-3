@@ -1,0 +1,14 @@
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.AssemblyInfoInputs.cache
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.AssemblyInfo.cs
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.csproj.CoreCompileInputs.cache
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.dll
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\refint\RefactoringLab.Part02.dll
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.pdb
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\bin\Debug\net10.0\RefactoringLab.Part02.exe
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\bin\Debug\net10.0\RefactoringLab.Part02.deps.json
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\bin\Debug\net10.0\RefactoringLab.Part02.runtimeconfig.json
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\bin\Debug\net10.0\RefactoringLab.Part02.dll
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\bin\Debug\net10.0\RefactoringLab.Part02.pdb
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\RefactoringLab.Part02.genruntimeconfig.cache
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\part-02\obj\Debug\net10.0\ref\RefactoringLab.Part02.dll

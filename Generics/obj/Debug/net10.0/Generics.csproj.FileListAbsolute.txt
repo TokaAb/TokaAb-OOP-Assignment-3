@@ -1,0 +1,15 @@
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.AssemblyInfoInputs.cache
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.AssemblyInfo.cs
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.sourcelink.json
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\bin\Debug\net10.0\Generics.exe
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\bin\Debug\net10.0\Generics.deps.json
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\bin\Debug\net10.0\Generics.runtimeconfig.json
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\bin\Debug\net10.0\Generics.dll
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\bin\Debug\net10.0\Generics.pdb
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.dll
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\refint\Generics.dll
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.pdb
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\Generics.genruntimeconfig.cache
+C:\Users\com\source\repos\Refactoring-OCP-DIP-Composition\Generics\obj\Debug\net10.0\ref\Generics.dll
